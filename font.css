@@ -1,0 +1,20 @@
+@font-face {
+    font-family:"Poppins-Medium";
+    src: url(./fonts/Poppins/Poppins-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family:"Poppins-SemiBold";
+    src: url(./fonts/Poppins/Poppins-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family:"Poppins-Bold";
+    src: url(./fonts/Poppins/Poppins-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family:"PlayfairDisplay-Bold";
+    src: url(./fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf);
+    font-weight: 700;
+}
